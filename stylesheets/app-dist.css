@@ -3145,7 +3145,7 @@ body .loading {
 	}
 	#intro .intro-title {
 		padding-left: 70px;
-		padding-top: 40px;
+		padding-top: 100px;
 		letter-spacing: .0625rem;
 		line-height: 7.1875rem
 	}
@@ -3490,7 +3490,7 @@ body .loading {
 
 #outro p.acknowledgements {
 	position: absolute;
-	color: #000;
+	color: #FFFFFF;
 	bottom: 1.25rem;
 	width: 100%;
 	text-align: center;
@@ -3498,7 +3498,7 @@ body .loading {
 }
 
 #outro p.acknowledgements a:link, #outro p.acknowledgements a:visited {
-	color: #000;
+	color: #FFFFFF;
 	font-size: 1rem;
 	font-weight: 400
 }
